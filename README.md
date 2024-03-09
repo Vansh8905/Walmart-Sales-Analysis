@@ -28,6 +28,74 @@ This dataset contains sales transactions from a three different branches of Walm
 | gross_income              | Gross Income                           | DECIMAL(10, 2) |
 | rating                    | Rating                                 | FLOAT(2, 1)    |
 
+# Project Title
+
+Brief description of the project.
+
+## Introduction
+
+Introduce the project, its objectives, and the dataset used.
+
+## Approach Used
+
+### Data Wrangling
+- Handle missing values and ensure data quality.
+- Build a database with appropriate tables and insert data.
+- Create new features such as time_of_day, day_name, and month_name.
+
+### Exploratory Data Analysis (EDA)
+- Address business questions through data analysis.
+- Explore insights related to cities, products, sales, and customers.
+
+## Business Questions
+
+### City and Branch
+- How many unique cities does the data have?
+- In which city is each branch located?
+- Which city has the largest revenue?
+
+### Product
+- How many unique product lines does the data have?
+- What is the most common payment method?
+- What is the most selling product line?
+- What is the total revenue by month?
+
+### Sales
+- Number of sales made in each time of the day per weekday.
+- Which customer type brings the most revenue?
+- Which city has the largest tax percent/ VAT?
+- Which customer type pays the most in VAT?
+
+### Customer
+- How many unique customer types does the data have?
+- What is the most common customer type?
+- What is the gender distribution per branch?
+- Which time of the day do customers give most ratings?
+
+## Conclusion
+
+Summarize key findings and insights from the analysis.
+
+## Future Work
+
+Mention any future steps or improvements to the analysis or project.
+
+## Repository Structure
+
+Describe the structure of the repository and how to navigate through it.
+
+## Dependencies
+
+List any dependencies required to run the code or reproduce the analysis.
+
+## License
+
+Specify the license under which the project is distributed.
+
+## Author
+
+Provide information about the author or contributors.
+
 
 
 
