@@ -28,32 +28,27 @@ This dataset contains sales transactions from a three different branches of Walm
 | gross_income              | Gross Income                           | DECIMAL(10, 2) |
 | rating                    | Rating                                 | FLOAT(2, 1)    |
 
-# Project Title
+## Analysis List
+### Product Analysis
+- Conduct analysis on the data to understand the different product lines, the products lines performing best and the product lines that need to be improved.
 
-Brief description of the project.
+### Sales Analysis
+- This analysis aims to answer the question of the sales trends of product. The result of this can help use measure the effectiveness of each sales strategy the business applies and what modificatoins are needed to gain more sales.
 
-## Introduction
-
-Introduce the project, its objectives, and the dataset used.
+### Customer Analysis
+- This analysis aims to uncover the different customers segments, purchase trends and the profitability of each customer segment.
 
 ## Approach Used
 
 ### Data Wrangling
-- Handle missing values and ensure data quality.
-- Build a database with appropriate tables and insert data.
-- Create new features such as time_of_day, day_name, and month_name.
-
+### Feature Engineering
 ### Exploratory Data Analysis (EDA)
-- Address business questions through data analysis.
-- Explore insights related to cities, products, sales, and customers.
 
 ## Business Questions
 
-### City and Branch
-- How many unique cities does the data have?
-- In which city is each branch located?
-- Which city has the largest revenue?
-
+### Generic Question
+- 1 How many unique cities does the data have?
+- 2 In which city is each branch?
 ### Product
 - How many unique product lines does the data have?
 - What is the most common payment method?
@@ -76,25 +71,6 @@ Introduce the project, its objectives, and the dataset used.
 
 Summarize key findings and insights from the analysis.
 
-## Future Work
-
-Mention any future steps or improvements to the analysis or project.
-
-## Repository Structure
-
-Describe the structure of the repository and how to navigate through it.
-
-## Dependencies
-
-List any dependencies required to run the code or reproduce the analysis.
-
-## License
-
-Specify the license under which the project is distributed.
-
-## Author
-
-Provide information about the author or contributors.
 
 
 
